@@ -9,6 +9,7 @@ A bot for auto checkin an checkout from Meckano system
 - change the cron schedule with the time you want checkin and checkout
 
   > INFO
+  > 
   > Default checkin is at 09:45 on every day-of-week from Sunday through Thursday.
   > Default checkout is at 19:00 on every day-of-week from Sunday through Thursday.
 
