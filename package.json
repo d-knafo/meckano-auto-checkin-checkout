@@ -1,15 +1,4 @@
 {
-  "dependencies": {
-    "dotenv": "^16.0.1",
-    "node-cron": "^3.0.1",
-    "pm2": "^5.2.0",
-    "puppeteer": "^14.3.0"
-  }
-}
-
-
-
-{
   "name": "meckano-auto-checkin-checkout",
   "description": "A bot for auto checkin an checkout from Meckano system.",
   "version": "1.0.0",
