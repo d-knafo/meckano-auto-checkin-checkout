@@ -80,4 +80,3 @@ cron.schedule("55 18 * * 0-4", () => {
   start(false);
 });
 
-start(true);
