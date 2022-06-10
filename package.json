@@ -1,7 +1,7 @@
 {
   "name": "meckano-auto-checkin-checkout",
   "description": "A bot for auto checkin an checkout from Meckano system.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "david knafo <davidkjimdo@gmail.com>",
   "keywords": [
     "meckano"
