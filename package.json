@@ -6,3 +6,34 @@
     "puppeteer": "^14.3.0"
   }
 }
+
+
+
+{
+  "name": "meckano-auto-checkin-checkout",
+  "description": "A bot for auto checkin an checkout from Meckano system.",
+  "version": "1.0.0",
+  "author": "david knafo <davidkjimdo@gmail.com>",
+  "keywords": [
+    "meckano",
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-cron": "^3.0.1",
+    "pm2": "^5.2.0",
+    "puppeteer": "^14.3.0"
+  },
+  "main": "app.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-knafo/meckano-auto-checkin-checkout"
+  },
+  "homepage": "https://github.com/d-knafo/meckano-auto-checkin-checkout",
+  "bugs": {
+    "url": "https://github.com/d-knafo/meckano-auto-checkin-checkout/issues"
+  },
+}
