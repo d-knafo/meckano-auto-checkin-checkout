@@ -16,7 +16,7 @@ const start = async (isCheckin = true) => {
   await delay(random(1, 10) * 1000); // wait random from 1 to 10 minutes
 
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
   });
   const page = await browser.newPage();
   await page.setViewport({
